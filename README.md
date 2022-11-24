@@ -104,44 +104,20 @@ print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)
 ```
 
 ## Output
-![simple](./1.png)
-
-![output](2.png)
-
-![output](3.png)
 
 ![output](4.png)
 
-![output](5.png)
-
-![output](6.png)
-
 ![output](7.png)
-
-![out](./8.png)
-
-![out](9.png)
 
 ![out](./10.png)
 
-![out](11.png)
-
 ![out](12.png)
-
-![out](13.png)
 
 ![out](14.png)
 
-![out](15.png)
-
-![out](16.png)
-
 ![out](17.png)
 
-![out](18.png)
-
 ![out](19.png)
-
 
 ## Result
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
